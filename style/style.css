@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+
+img{
+    display: block;
+    width: 400px;
+    margin: 0px auto;
+}
+
+#main-content{
+    display: flex;
+    height: 98vh;
+    align-items: center;
+}
